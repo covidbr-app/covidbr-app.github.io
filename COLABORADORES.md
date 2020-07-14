@@ -2,9 +2,9 @@
 
 - Ramon Fontes (UFRN)
 
-### Colaboradores diretos
+### Datasets também mantidos por:
 
-- Bahia
+- Bahia - https://github.com/covidba/covid
   - Givanildo de Jesus (IFBA)
   - Luciano Nery Ferreira (UESB)
  
