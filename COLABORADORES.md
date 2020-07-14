@@ -10,5 +10,7 @@
  
  
 ### Demais Colaboradores
- - Leandro Nascimento Bertoldi (UESB)
  - Cleber Souza de Jesus (UESB)
+ - Leandro Nascimento Bertoldi (UESB)
+ - Valdex de Jesus Santos (IFBA)
+ - Valdirene Santos Rocha Sousa (IFBA)
