@@ -1,5 +1,5 @@
 title: CovidBR
 description: CovidBR - Dados da Covid na palma de sua mão!
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-cayman
