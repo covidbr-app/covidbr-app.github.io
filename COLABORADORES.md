@@ -2,7 +2,7 @@
 
 - Ramon Fontes (UFRN)
 
-### Colaboradores diretos
+### Datasets também mantidos por:
 
 - Bahia
   - Givanildo de Jesus (IFBA)
