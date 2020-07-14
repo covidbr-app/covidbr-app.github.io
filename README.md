@@ -1,6 +1,6 @@
 # CovidBR
 
-![Thumbnail of Cayman](thumbnail.png)
+![Thumbnail of CovidBR](thumbnail.png)
 
 ## Usage
 
